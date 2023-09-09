@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+p{
+    color:brown;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    line-height: 2.5;
+    text-align:justify;
+    text-transform: capitalize;
+
+    margin :20px;
+   border:1px solid red;                                                
+}
+
+.hoahau{
+    background-color:yellow;
+}
